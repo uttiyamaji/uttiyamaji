@@ -12,7 +12,7 @@
 <summary>Area of Interests 👓 </summary>
 <ul>
   <li><a>Computational Statistics, Data Analysis</a></li>
-  <li><a> Tools - I primarily work with R and Python </a></li>
+  <li><a> I primarily work with R and Python and I'm very much interested to learn the internals of them</a></li>
 </ul>
 </details>
 
@@ -20,13 +20,13 @@
 <details>
 	<summary>Experience  👨‍💻</summary>
   <ul>
-	  <li><a>I interned at <b> General Electric </b> in the Advanced Technology group and helped build a model for early prediction of interventions for hypoxia and hyperoxia during surgery</a></li>
-	  <li><a>I have helped implement an efficient alternative function to calculate Multivariate Spectral Variance Estimators in the R package <b> mcmcse </b></a></li>
+	  <li><a>As an intern at <b> General Electric </b> in the Advanced Technology group, I helped build a model for early prediction of interventions for hypoxia and hyperoxia during surgery</a></li>
+	  <li><a>I have helped implement an efficient alternative function to compute Multivariate Spectral Variance Estimators in the R package <b> mcmcse </b></a></li>
     </ul>
 </details>
 <h2>Get in touch </h2>
 <details>
-  
+  <summary>Contact: 📞</summary>
   <ul>
   <li>You can reach me at 
 	  <b> maji.uttiya@gmail.com </b>
