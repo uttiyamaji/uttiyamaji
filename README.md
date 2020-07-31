@@ -28,14 +28,19 @@
 <details>
   <summary>Contact: 📞</summary>
   <ul>
-  <li>You can reach me at 
+  <li>Drop me a mail at
 	  <b> maji.uttiya@gmail.com </b>
   </a></li>
 </ul>
 </details>
 <details>
   <summary>Other Interests ☕ </summary>
+  <details>
+  <summary>Films </summary>
   <ul>
-    <li>You are a lot like me if you have loved the TV shows Silicon Valley, Bojack Horseman and American Vandal</li>
-    </ul>
+  <li>Mr. Nobody, Her
+  </a></li>
+</ul>
+</details>
+  
 </details>
