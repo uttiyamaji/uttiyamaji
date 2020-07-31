@@ -9,7 +9,7 @@
 </details>
 
 <details>
-<summary>Area of Interests 👓 </summary>
+<summary>Areas of Interest 👓 </summary>
 <ul>
   <li><a>Computational Statistics, Data Analysis</a></li>
   <li><a> I primarily work with R and Python and I'm very much interested to learn the internals of them</a></li>
