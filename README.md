@@ -36,11 +36,32 @@
 <details>
   <summary>Other Interests ☕ </summary>
   <details>
+  <summary>Books </summary>
+  <ul>
+  <li> Sapiens, Homo Deus
+  </a></li>
+  </ul>
+  </details>
+  <details>
+  <summary>TV shows </summary>
+  <ul>
+  <li>Silicon Valley, Bojack Horseman, American Vandal
+  </a></li>
+  </ul>
+  </details>
+  <details>
   <summary>Films </summary>
   <ul>
   <li>Mr. Nobody, Her
   </a></li>
-</ul>
-</details>
+  </ul>
+  </details>
+  <details>
+  <summary>YouTube </summary>
+  <ul>
+  <li> 3Blue1brown, Freethink, Vox, Verge, ColdFusion TV, Mango Street
+  </a></li>
+  </ul>
+  </details>
   
 </details>
