@@ -20,8 +20,8 @@
 <details>
 	<summary>Experience  👨‍💻</summary>
   <ul>
-	  <li><a>As an intern at <b> General Electric </b> in the Advanced Technology group, I helped build a model for early prediction of interventions for hypoxia and hyperoxia during surgery</a></li>
-	  <li><a>I have helped implement an efficient alternative function to compute Multivariate Spectral Variance Estimators in the R package <b> mcmcse </b></a></li>
+	  <li><a>As an intern at <b> General Electric </b> in their Advanced Technology group, I helped build a model for early prediction of interventions for hypoxia and hyperoxia during surgery</a></li>
+	  <li><a>I have helped implement an efficient alternative algorithm to compute Multivariate Spectral Variance Estimators in the R package <b> mcmcse </b></a></li>
     </ul>
 </details>
 <h2>Get in touch </h2>
