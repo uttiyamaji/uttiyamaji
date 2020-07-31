@@ -20,21 +20,22 @@
 <details>
 	<summary>Experience  👨‍💻</summary>
   <ul>
-	  <li><a>Data Scientist intern at <b> General Electric </b></a></li>
+	  <li><a>I interned at <b> General Electric </b> in the Advanced Technology group and helped build a model for early prediction of interventions for hypoxia and hyperoxia during surgery</a></li>
+	  <li><a>I have helped implement an efficient alternative function to calculate Multivariate Spectral Variance Estimators in the R package <b> mcmcse </b></a></li>
     </ul>
 </details>
 <h2>Get in touch </h2>
 <details>
-  <summary>Contact: 📞</summary>
+  
   <ul>
-  <li>Mail me your requests at <a href="mailto: thecodebugged@gmail.com">
-   thecodebugged@gmail.com <br>
+  <li>You can reach me at 
+	  <b> maji.uttiya@gmail.com </b>
   </a></li>
 </ul>
 </details>
 <details>
-  <summary>Interests apart from coding ☕ </summary>
+  <summary>Other Interests ☕ </summary>
   <ul>
-    <li>Let's talk over a cup of  coffee </li>
+    <li>You are a lot like me if you have loved the TV shows Silicon Valley, Bojack Horseman and American Vandal</li>
     </ul>
 </details>
