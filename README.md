@@ -9,7 +9,6 @@
 <ul>
   <li>Also, I never completed any course from Udemy, Udacity, Coursera etc.</li>
 </ul>
-	
 </details>
 
 <details>
