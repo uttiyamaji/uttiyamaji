@@ -5,7 +5,6 @@
 <summary>Education 📚</summary>
 <ul>
   <li>I hold a Master's degree in Statistics from IIT Kanpur</li>
-  <li>Also, I never completed any course from Udemy, Udacity, Coursera etc.</li>
 </ul>
 </details>
 
