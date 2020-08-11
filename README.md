@@ -1,6 +1,6 @@
 <h1>Hey, I am Uttiya Maji</h1>
 
-<h2> I'm a Model Risk Analyst at JPMorgan Chase & Co.</h2>
+<h2> I'm a Model Risk Analyst at JPMorgan Chase</h2>
 <details>
 <summary>Education 📚</summary>
 <ul>
